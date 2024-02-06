@@ -25,17 +25,19 @@ h2{
     width: 280px;
     height: 300px;
     border-radius: 70%;
-    float: right;
+   justify-content: center;
 }
 
 .zap3{
     width: 280px;
     height: 300px;
     border-radius: 70%;
+    justify-content: right;
 }
 
 .zap4{
     width: 280px;
     height: 300px;
     border-radius: 70%;
+    justify-content: right;
 }
