@@ -17,6 +17,7 @@ h2{
     width: 280px;
     height: 300px;
     border-radius: 70%;
+    justify-content: left;
     
 }
 
@@ -28,6 +29,12 @@ h2{
 }
 
 .zap3{
+    width: 280px;
+    height: 300px;
+    border-radius: 70%;
+}
+
+.zap4{
     width: 280px;
     height: 300px;
     border-radius: 70%;
