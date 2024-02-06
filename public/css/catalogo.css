@@ -1,0 +1,34 @@
+/*h1{
+    color: aqua;
+    text-align: center;
+}
+
+h2{
+    color: aqua;
+    text-align: center;
+}
+
+.boton1{
+  
+}
+ */ 
+
+.zap1{
+    width: 280px;
+    height: 300px;
+    border-radius: 70%;
+    
+}
+
+.zap2{
+    width: 280px;
+    height: 300px;
+    border-radius: 70%;
+    float: right;
+}
+
+.zap3{
+    width: 280px;
+    height: 300px;
+    border-radius: 70%;
+}
